@@ -6,5 +6,5 @@ $(document).ready(function () {
         $('.close').click(function () {
             $('.overlay').fadeOut(1000);
             $('.modal').slideUp(300);
-        })
+        });
 });
